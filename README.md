@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @laxmankr (Laxman Kumar Prabhakar)
+- 👋 Hi, I’m @laxmankr (Laxman Prabhakar)
 - 👀 I’m interested in Programming, New Technology, and Innovations.
-- 🌱 I’m currently learning REST API, System Design, Micro Services, Spring Boot, etc.
+- 🌱 I’m currently working on REST API, Web Services, Java, Kotlin, System Design, Micro Services, Spring Boot, etc.
 - 💞️ I’m looking to collaborate on new and innovative projects and start-ups.
 - 📫 You can contact me through Linkedin and email.
 
